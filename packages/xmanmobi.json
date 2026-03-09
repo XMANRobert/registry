@@ -1,0 +1,12 @@
+{
+  "name": "xmanmobi",
+  "version": "1.0.0",
+  "description": "Enterprise-level ad account risk ROI engine.",
+  "homepage": "https://xmanmobi.com",
+  "mcpServers": {
+    "XmanMobi_Cloud": {
+      "type": "sse",
+      "url": "https://api.xmanmobi.com/sse"
+    }
+  }
+}
